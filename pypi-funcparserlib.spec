@@ -4,7 +4,7 @@
 #
 Name     : pypi-funcparserlib
 Version  : 1.0.0a1
-Release  : 39
+Release  : 40
 URL      : https://github.com/vlasovskikh/funcparserlib/archive/1.0.0a1/funcparserlib-1.0.0a1.tar.gz
 Source0  : https://github.com/vlasovskikh/funcparserlib/archive/1.0.0a1/funcparserlib-1.0.0a1.tar.gz
 Summary  : No detailed summary available
