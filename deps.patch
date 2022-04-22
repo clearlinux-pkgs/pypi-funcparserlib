@@ -1,0 +1,11 @@
+--- funcparserlib-0.3.6/setup.py~	2013-05-02 15:09:16.000000000 +0000
++++ funcparserlib-0.3.6/setup.py	2021-11-02 19:42:20.213425189 +0000
+@@ -4,8 +4,6 @@
+ import sys
+ 
+ extra = {}
+-if sys.version_info >= (3,):
+-    extra['use_2to3'] = True
+ 
+ 
+ setup(
