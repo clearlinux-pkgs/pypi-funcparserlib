@@ -4,7 +4,7 @@
 #
 Name     : pypi-funcparserlib
 Version  : 1.0.0a1
-Release  : 38
+Release  : 39
 URL      : https://github.com/vlasovskikh/funcparserlib/archive/1.0.0a1/funcparserlib-1.0.0a1.tar.gz
 Source0  : https://github.com/vlasovskikh/funcparserlib/archive/1.0.0a1/funcparserlib-1.0.0a1.tar.gz
 Summary  : No detailed summary available
@@ -20,6 +20,7 @@ BuildRequires : pypi-pluggy
 BuildRequires : pypi-pytest
 BuildRequires : pypi-tox
 BuildRequires : pypi-virtualenv
+Provides: pypi(funcparserlib)
 
 %description
 funcparserlib
