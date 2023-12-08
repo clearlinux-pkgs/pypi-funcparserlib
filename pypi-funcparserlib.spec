@@ -7,7 +7,7 @@
 #
 Name     : pypi-funcparserlib
 Version  : 1.0.1
-Release  : 54
+Release  : 55
 URL      : https://github.com/vlasovskikh/funcparserlib/archive/1.0.1/funcparserlib-1.0.1.tar.gz
 Source0  : https://github.com/vlasovskikh/funcparserlib/archive/1.0.1/funcparserlib-1.0.1.tar.gz
 Summary  : No detailed summary available
@@ -53,6 +53,7 @@ python components for the pypi-funcparserlib package.
 Summary: python3 components for the pypi-funcparserlib package.
 Group: Default
 Requires: python3-core
+Provides: pypi(funcparserlib)
 
 %description python3
 python3 components for the pypi-funcparserlib package.
