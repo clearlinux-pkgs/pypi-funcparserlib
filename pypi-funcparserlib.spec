@@ -7,7 +7,7 @@
 #
 Name     : pypi-funcparserlib
 Version  : 1.0.1
-Release  : 58
+Release  : 59
 URL      : https://github.com/vlasovskikh/funcparserlib/archive/1.0.1/funcparserlib-1.0.1.tar.gz
 Source0  : https://github.com/vlasovskikh/funcparserlib/archive/1.0.1/funcparserlib-1.0.1.tar.gz
 Summary  : Recursive descent parsing library based on functional combinators
